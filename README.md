@@ -40,4 +40,4 @@
 برای نصب و اجرا، دستور زیر را در ترمینال سرور خود (هم ایران و هم خارج) کپی و اجرا کنید:
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/install.sh](https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/install.sh))
+bash <(curl -Ls [https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh](https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh))
