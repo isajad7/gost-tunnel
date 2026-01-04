@@ -35,7 +35,7 @@
 در **هر دو سرور** (هم ایران و هم خارج)، با دسترسی روت (`sudo -i`) دستور زیر را اجرا کنید:
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh](https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh))
+bash <(curl -Ls https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh)
 
 ```
 
