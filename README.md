@@ -37,6 +37,7 @@
 ```bash
 bash <(curl -Ls [https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh](https://raw.githubusercontent.com/isajad7/gost-tunnel/main/install.sh))
 
+```
 
 📚 راهنمای قدم‌به‌قدم (Step-by-Step Guide)
 برای اینکه تانل به درستی کار کند، باید مراحل را دقیقاً به ترتیب زیر انجام دهید.
